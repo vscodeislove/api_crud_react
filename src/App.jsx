@@ -9,7 +9,7 @@ import NotFound from "./components/Notfound";
 const App = () => {
   return (
     <>
-      <nav className="bg-slate-700 flex justify-center">
+      <nav className="bg-slate-700 flex justify-center mb-4 p-5">
         <ul className="flex gap-4">
           <li>
             <Link to="/">Home</Link>
